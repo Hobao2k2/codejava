@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../code_web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "code_web"
+	}
+}
